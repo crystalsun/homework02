@@ -1,0 +1,151 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    background-image:url(img/gg.jpg);
+    background-repeat: repeat-y;
+    background-size: 100%;
+
+}
+
+ .hb{
+ 	margin: 5px;
+    text-align: center;
+
+}
+
+.nav{
+	width: 140px;
+    float: right;
+    position: relative;
+}
+
+.btn {
+    font-size: 30px;
+    line-height: 25px; 
+    text-align: center;
+    color: #999;
+    margin: 0 auto;
+    position: relative;
+}
+
+.input{
+	font-size: .6em;
+	color: #444;
+}
+.zz{
+	
+}
+.intro{
+	width: 100%;
+	height: 80px;
+	background: url(img/16.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding-top: 24px;
+}
+.first{
+	font-size: 22px;
+    font-weight: 700;
+    margin: 12px 40px 0 8px;
+   
+}
+
+.second{
+    font-size: 16px;
+    font-weight: 700;
+    margin: 5px 40px 0 8px;
+}
+.line {
+    margin-top: 10px;
+    float: right;
+}
+
+.color{
+	width: 1000px;
+    text-align: center;
+    background: #FAFAFA;
+    padding: 12px 20px;
+    margin-top: 20px;
+    box-shadow: inset 0 1px 0 white,0 1px 2px;
+    border-radius: 4px;
+
+}
+
+
+
+.unit {
+    width: 160px;
+    padding-right: 10px;
+    float: left;
+    margin-right: 15px;
+    border-right: 1px none #EDEDED;
+}
+
+.x{
+	color: black;
+	text-decoration: none;
+}
+
+.fi {
+    height: 30px;
+    line-height: 30px;
+    padding: 0 20px 0 10px;
+    background: no-repeat pink;
+    display: inline-block;
+    margin-right: 10px;
+    border-radius: 2px;
+    position: relative;
+}
+
+.feng{
+	background:url(img/bei2.jpg);
+	height:32px;
+	clear: both;
+}
+li{
+	width: 50%;
+	border-bottom: 2px none #9F9FED;
+	
+}
+
+.img0{
+	float: left;
+	position: relative;
+    margin: 0 16px 16px 0;
+    width: 236px;
+    height: 126px; 
+}
+.guide1{
+	float: left;
+	width: 250px;
+}
+.img1{
+	width:250px;
+	border:0px 999 none;
+}
+.hid {
+   font-size: 0.5em;
+   clear: left;
+   background-color: white;
+}
+.img-x {
+   width:44px;
+   height:44px;
+}
+a{
+	text-decoration: none;
+	color: grey;
+}
+.clear{
+	clear: left;
+}
+
+.dsh{
+	text-align: center;
+}
+
+
+
